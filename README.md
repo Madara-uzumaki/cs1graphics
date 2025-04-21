@@ -1,1 +1,4 @@
-# cs1graphics
+# ASTU_PROJECT
+Python
+dramatic animation
+enjoy...
